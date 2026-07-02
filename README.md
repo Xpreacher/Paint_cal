@@ -11,5 +11,6 @@ Quick paint estimator by xpreacher. Enter your wall dimensions and get the numbe
 ### How to Use
 1. Clone the repo:
    ```bash
-   git clone https://github.com/xpreacher/paint_calculator.git
-   cd paint_calculator
+   git clone https://github.com/Xpreacher/Paint_cal.git
+   cd Paint_cal
+   ```
